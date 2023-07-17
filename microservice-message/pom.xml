@@ -13,7 +13,7 @@
     <name>microservice-message</name>
     <description>microservice-message</description>
     <properties>
-        <java.version>1.8</java.version>
+        <java.version>11</java.version>
     </properties>
 
     <dependencies>
