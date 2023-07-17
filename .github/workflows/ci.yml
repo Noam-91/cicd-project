@@ -50,4 +50,4 @@ jobs:
         uses: docker/build-push-action@v4
         with:
           push: true
-          tags: noamyan9/cicd-project:latest
+          tags: noamyan9/cicd-project:latest, noamyan9/cicd-project:${{github.run_number}}
